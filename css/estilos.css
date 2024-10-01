@@ -1,0 +1,23 @@
+body{background-color:yellow;}
+h1 {font-size:x-large;
+
+
+
+    background-color:red;
+
+
+    text-decoration:underline;
+
+
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+h3 {font-size:large;
+    background-color:gray;
+
+text-decoration: underline;}
+
+
+img{width:246px;}
